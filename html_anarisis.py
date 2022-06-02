@@ -1,6 +1,5 @@
 from ast import IsNot
 from bs4 import BeautifulSoup
-from numpy import imag
 import requests
 import os
 import cv2
